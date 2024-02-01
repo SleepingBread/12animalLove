@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+#result {
+  display: none;
+}
+
+#result h2 {
+  text-align: center;
+  margin: 50px 0 30px 0;
+  font-weight: 500;
+}
+.resultName {
+  text-align: center;
+  margin: 50px 0 30px 0;
+  font-size: 20px;
+  font-weight: 400;
+  white-space: pre-line;
+}
+
+
+.resultDesc {
+  margin: 50px 0 30px 0;
+  white-space: pre-line;
+  text-align: center;
+}
+
+.shareBtn {
+  border: 0px;
+  border-radius: 4px;
+  background-color: #FEE500;
+  display: block;
+  font-size: 18px;
+  padding: 12px 36px;
+  margin: 30px auto;
+  color: #191919;
+}

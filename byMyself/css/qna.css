@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+#wrap{
+  /* width: 100%;
+  max-width: 500px; */
+  /* margin: 0 auto; */
+}
+
+#qna {
+  display: none;
+  width: 500px;
+}
+
+.status {
+  height: 6px;
+  background-color: #EDEDED;
+  border-radius: 4px;
+}
+
+.statusbar {
+  height: 6px;
+  background-color: #000;
+  border-radius: 4px;
+}
+
+.qNumber {
+  text-align: center;
+  margin: 120px 0 0;
+
+}
+
+.qBox {
+  text-align: center;
+  margin: 10px 0;
+
+  font-size: 24px;
+  font-weight: 500;
+}
+.answerBoxWrap {
+  margin-top: 140px;
+}
+
+.answerList {
+  padding: 12px 36px;
+}
+
+/* .answerList:hover {
+  background-color: #75787B;
+} */
